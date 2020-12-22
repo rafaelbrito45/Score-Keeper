@@ -1,2 +1,2 @@
 # Score-Keeper
-Score Keeper from the Web Developer Bootcamp
+Score Keeper developed while doing the Web Developer Bootcamp from Udemy.
